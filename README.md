@@ -33,7 +33,7 @@ CLiquez sur l'application que l'on veut ajouter.
 <br> Faire reset Token et copier celui fournit (attention celui-ci est unique si vous le modifier plus tard, pensez à le modifier dans le code)
 <br> Ouvrir le fichier bot_fdj.py avec un ide (VScode ou notepad ++)
 <br> Modifier la variable TOKEN (L8) en remplaçant le token existant par celui de votre application.
-<br> <img src="https://antoine-haro.fr/"  width="100"/>
+<br> <img src="https://antoine-haro.fr/preuve_bot/Preuve1"  width="35%"/>
 
 # II-Ajout de l'id du channel sur le boT
 <br> Il faut d'abbord activer l'option développeur sur votre application Discord (accessible depuis les paramètres.
@@ -41,18 +41,18 @@ CLiquez sur l'application que l'on veut ajouter.
 <br> Cliquez sur "Copiez l'id du salon."
 <br> Ouvrir le fichier bot_fdj.py
 <br> Modifier la variable CHANNEL_ID (L9) en remplaçant sa valeur par l'id du salon.
-<br> <img src="https://antoine-haro.fr/"  width="100"/>
+<br> <img src="https://antoine-haro.fr/preuve_bot/Preuve2"  width="25%"/>
 
 # III-Lancement du boT par ide
 <br> Rendez vous sur votre ide (de préférence VScode)
 <br> Sélectionnez le bot_fdj.py de sorte à voire le code source.
 <br> Appuyer sur la flêche de lancement en haut à droite (ça va ouvrir un terminal)
-<br> <img src="https://antoine-haro.fr/"  width="100"/>
+<br> <img src="https://antoine-haro.fr/preuve_bot/Preuve3"  width="55%"/>
 
 # IV-Lancement du boT par terminal
 <br> Ouvrez un terminal 
 <br> Déplacez vous jusqu'à votre répertoire où ce situe le bot
-<br> Rentrez la commande python3 bot_fdj.py
+<br> Rentrez la commande <b>python3 bot_fdj.py<b>
 
 # commandes
 Les commandes sont les suivantes:
