@@ -5,6 +5,7 @@ Le boT va regarder si sur le site de la fdj il y a de nouveaux jeux à gratter e
 <br>
 Le but de ce boT est sur le long terme de l'héberger sur un VPS (il est configuré pour).
 Je travaille aussi sur une eventuelle optimisation de la recherche et des commandes (ajout).
+Cette première version est autonome sur la mise à jour du array de jeux_connus.json (permet de ne pas saisir manuellement les valeurs et évite les doubles)
 <br>
 
 # Prérequis:
@@ -16,8 +17,8 @@ Je travaille aussi sur une eventuelle optimisation de la recherche et des comman
 
 # Descriptif du contenu du dépôt:
 
-<mark>BoT_fdj</mark> 
-	Code source du boT
+<mark>bot_fdj.py</mark> 
+	Code source du boT (programme)
 <br>
 <mark>jeux_connus.json</mark> 
   Contient un tableau avec les jeux connus (évite le double enregistrement)
